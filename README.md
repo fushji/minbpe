@@ -4,4 +4,4 @@ This crate is a rust porting of [Andrej Karpathy](https://twitter.com/karpathy) 
 ## Usage
 
 # License
-[MIT](https://github.com/fushji/minbpe/blob/main/LICENSE)
+[MIT License](https://github.com/fushji/minbpe/blob/main/LICENSE)
